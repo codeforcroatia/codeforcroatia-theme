@@ -4,7 +4,7 @@ A base bootstrap theme for Code for Croatia apps, delivered as CSS and SASS.
 This is still WIP - Work In Progress !
 
 ## Using this theme
-TODO
+See https://dev.codeforcroatia.org/codeforcroatia-theme.
 
 ## Maintaining this theme
 TODO
