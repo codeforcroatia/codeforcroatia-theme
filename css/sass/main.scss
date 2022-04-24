@@ -29,7 +29,7 @@
 // Components
 @import "bootstrap/component-animations";
 @import "bootstrap/dropdowns";
-@import "bootstrap/button-groups"; 
+@import "bootstrap/button-groups";
 @import "bootstrap/input-groups";
 @import "bootstrap/navs";
 @import "bootstrap/navbar";
@@ -66,5 +66,5 @@
 @import "prism";
 
 $base-spacing: 20px;
-$header-gradient: radial-gradient(circle at 50% top, rgba($green,0.6) 0%,rgba($green,0) 75%),radial-gradient(circle at right top, $green 0%,rgba($green,0) 57%);
+$header-gradient: radial-gradient(circle at 50% top, rgba($red,0.6) 0%,rgba($red,0) 75%),radial-gradient(circle at right top, $red 0%,rgba($red,0) 57%);
 @import "theme";
