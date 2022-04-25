@@ -10,7 +10,7 @@ See https://dev.codeforcroatia.org/codeforcroatia-theme.
 TODO
 
 # License
-This theme is based on okfn/app-theme, see http://okfnlabs.org/app-theme/.
+This theme is based on okfn/app-theme, see https://okfnlabs.org/app-theme/.
 Source code available under the MIT license.
 Content on this site, made by Open Knowledge Foundation, is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
